@@ -1,2 +1,3 @@
-# Meteor
-Repositorio para subir errores del bot y sugerir cosas nuevas. No se publicará el código.
+### Meteor
+
+Repositorio donde se añadirán actualizaciones del Bot y donde podrán subir **errores/sugerencias**. __No se publicará el código del bot__.
