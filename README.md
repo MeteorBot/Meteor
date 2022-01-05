@@ -4,4 +4,4 @@ Repositorio donde se añadirán actualizaciones del Bot y donde podrán subir **
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-4/1/22 - Empezamos con el GitHub de Meteor.
+**4/1/22** - Empezamos con el GitHub de Meteor.
