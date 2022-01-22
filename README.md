@@ -15,7 +15,7 @@ Mi subdesarrollador es **Nixco#6009**
 
 Para eso tienes que entrar en nuestro servidor de Discord.
 
-[![METEOR](https://discordapp.com/api/guilds/726828313410142309/embed.png?style=banner2)](https://discord.gg/twsQ4aJ)
+[![METEOR](https://discordapp.com/api/guilds/726828313410142309/embed.png?style=banner3)](https://discord.gg/twsQ4aJ)
 
 
 ```
@@ -32,7 +32,7 @@ No hay detalles.
 
 **6/1/22** - Se empezó con el cambio de base de datos.
 ```
-No hay detalles.
+- Esto solo afecta al cambio de prefix, por ahora.
 ``` 
 
 ---------------------------------------------------------
