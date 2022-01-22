@@ -14,37 +14,3 @@ Mi subdesarrollador es **Nixco#6009**
 Para eso tienes que entrar en nuestro servidor de Discord.
 
 [![METEOR](https://discordapp.com/api/guilds/726828313410142309/embed.png?style=banner3)](https://discord.gg/twsQ4aJ)
-
-
-```
-
-```
-
-
-**4/1/22** - Empezamos con el GitHub de Meteor.
-```
-No hay detalles.
-``` 
-
----------------------------------------------------------
-
-**6/1/22** - Se empezó con el cambio de base de datos.
-```
-- Esto solo afecta al cambio de prefix, por ahora.
-``` 
-
----------------------------------------------------------
-
-**22/1/22** - Se arreglaron los comandos de interacción de Meteor.
-```
-- happy
-- angry
-- jump
-- facepalm
-- fly
-- like
-- punch 
-
-Se piensa en añadir más.
-``` 
- 
