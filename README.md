@@ -16,5 +16,5 @@ Soy un bot multi propósito que busca ayudarte en la mayoría de necesidades que
 ¿Tienes una duda o quieres reportar/sugerir algo y que sea visto antes?  
 Para eso tienes que entrar en nuestro servidor de Discord.
 
-[![METEOR](https://discordapp.com/api/guilds/726828313410142309/embed.png?style=banner3)](https://discord.gg/twsQ4aJ)
+[![METEOR](https://i.imgur.com/TCCRpnA.jpg)](https://discord.gg/twsQ4aJ)
  
