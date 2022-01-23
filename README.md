@@ -14,4 +14,3 @@ Mi subdesarrollador es **Nixco#6009**
 Para eso tienes que entrar en nuestro servidor de Discord.
 
 [![METEOR](https://discordapp.com/api/guilds/726828313410142309/embed.png?style=banner3)](https://discord.gg/twsQ4aJ)
-  
