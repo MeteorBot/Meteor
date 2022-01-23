@@ -26,4 +26,4 @@ No hay detalles.
 
 Se piensa en añadir más.
 ``` 
- 
+  
