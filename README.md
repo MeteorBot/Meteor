@@ -9,6 +9,9 @@ _No se publicará el código del bot_. ~~POR AHORA~~
 Mi desarrollador oficial es **Criss#6835**  
 Mi subdesarrollador es **Nixco#6009**
 
+# ¿Quien soy?
+Soy un bot multi propósito que busca ayudarte en la mayoría de necesidades que tengas en tu servidor.
+
 # Soporte
 ¿Tienes una duda o quieres reportar/sugerir algo y que sea visto antes?  
 Para eso tienes que entrar en nuestro servidor de Discord.
