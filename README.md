@@ -1,6 +1,6 @@
 ![Meteor](https://i.imgur.com/r54VvVA.png "el mejor bot")
 
-Repositorio donde se añadirán actualizaciones del Bot y donde podrán subir **errores/sugerencias**.   
+~~Repositorio donde se añadirán actualizaciones del Bot y donde podrán subir **errores/sugerencias**.   
 _No se publicará el código del bot_. ~~POR AHORA~~
 
 [Política de Privacidad](https://nxco.gitbook.io/meteor-pp)
@@ -14,7 +14,7 @@ Soy un bot multi propósito que busca ayudarte en la mayoría de necesidades que
 
 # Soporte
 ¿Tienes una duda o quieres reportar/sugerir algo y que sea visto antes?  
-Para eso tienes que entrar en nuestro servidor de Discord.
+Para eso tienes que entrar en nuestro servidor de Discord.~~
 
 [![METEOR](https://i.imgur.com/TCCRpnA.jpg)](https://discord.gg/twsQ4aJ)
  
